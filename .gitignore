@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Attractions/bin/Debug
+/Attractions/obj/Debug
+/BusinessAccessLayer/bin/Debug
+/BusinessAccessLayer/obj/Debug
+/Attractions/Attractions.dbmdl
+/Attractions/Attractions.jfm
+/BusinessEntites/bin/Debug
+/BusinessEntites/obj/Debug
+/CommonObjects/bin/Debug
+/CommonObjects/obj/Debug
+/DataAccessLayer/bin/Debug
+/DataAccessLayer/obj/Debug
+/Interfaces/bin/Debug
+/Interfaces/obj/Debug
+/PlanGoGo/bin
+/PlanGoGo/obj/Debug
+/PlanGoGoAdmin/bin
+/PlanGoGoAdmin/obj/Debug
+/PlanGoGoService/bin
+/PlanGoGoService/obj/Debug
+/PlanGoGo_Services/bin/Debug
+/PlanGoGo_Services/obj/Debug
